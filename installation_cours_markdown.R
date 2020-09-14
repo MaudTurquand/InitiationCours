@@ -11,6 +11,7 @@ Library(c("rmarkdown", "bookdown","knitr"))
 # télécharger et installer MikTex selon votre susytème d'exploitation
 # https://miktex.org/download
 # petite modif d'essai sur Git 
+# Autres modif d'essai 
 
 
 # télécharger et installer Rtools depuis le  site
